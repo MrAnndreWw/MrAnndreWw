@@ -1,6 +1,6 @@
-<h3>
+<h1>
     Andres Felipe Borbon
-</h3>
+</h1>
 <h2>
   Estudiante de Ingeniería de Sistemas
 <br>
