@@ -8,4 +8,6 @@
 <br>
   Amante de los videojuegos y persona dedicada a sus sueños
 </h2>
-<img src="https://i.pinimg.com/564x/0f/04/ac/0f04ac135a8d6db96514bd97261c1c97.jpg">
+<img src="https://i.pinimg.com/564x/0f/04/ac/0f04ac135a8d6db96514bd97261c1c97.jpg"
+     width="400"
+     height="400">
