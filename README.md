@@ -5,4 +5,6 @@
   Estudiante de Ingeniería de Sistemas
 <br>
   Universidad EAN
+<br>
+  Amante de los videojuegos y persona dedicada a sus sueños
 </h2>
