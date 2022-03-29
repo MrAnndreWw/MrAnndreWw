@@ -1,5 +1,7 @@
-<Title>
-  <h2>
+<h3>
     Andres Felipe Borbon
-  </h2>
-</Title>
+</h3>
+<h2>
+  Estudiante de Ingeniería de Sistemas
+  Universidad EAN
+</h2>
