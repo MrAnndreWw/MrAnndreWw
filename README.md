@@ -1,3 +1,5 @@
-Estudiante de Ingeniería de Sistemas
-Segundo Semestre
-Universidad EAN
+<Title>
+  <h2>
+    Andres Felipe Borbon
+  </h2>
+</Title>
