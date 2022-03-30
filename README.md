@@ -2,11 +2,11 @@
     Andres Felipe Borbon
 </h1>
 <h2>
-  Estudiante de Ingeniería de Sistemas
+  Systems engineer student 
 <br>
-  Universidad EAN
+  EAN University
 <br>
-  Amante de los videojuegos y persona dedicada a sus sueños
+  Videogames lover<33
 </h2>
 <img src="https://i.pinimg.com/564x/0f/04/ac/0f04ac135a8d6db96514bd97261c1c97.jpg" 
      align="left"
