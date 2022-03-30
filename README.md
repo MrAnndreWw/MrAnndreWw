@@ -1,7 +1,13 @@
 <h1> Hellooo! </h1>
 <h2> 
     Andres Felipe Borbon...
-    <img src="https://i.pinimg.com/564x/37/11/24/371124bc591ee3ca61bbb9cb8f4be873.jpg" 
+    <img src="https://i.pinimg.com/564x/4e/e5/0b/4ee50b53bac0c87653f216b3d0f44cf9.jpg" 
+     align="left"
+     alt="Cute quá dợ.";
+     width="60"
+     height="60"
+     title="Cute quá dợ.">
+    <img src="https://i.pinimg.com/564x/4e/e5/0b/4ee50b53bac0c87653f216b3d0f44cf9.jpg" 
      align="right"
      alt="Cute quá dợ.";
      width="60"
