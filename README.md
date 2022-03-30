@@ -1,16 +1,10 @@
-<head>
-    <h1>
-        <center> Andres Felipe Borbon </center>
-    </h1>
-</head>
-<h2>
-  Systems engineer student 
+<h1> Hellooo! </h1>
+<h2> 
+    Andres Felipe Borbon...
+    <br>
+    Systems engineer student 
 </h2>
-<h3>
-  EAN University
-<br>
-  Videogames lover<33
-</h3>
+<h4> EAN University <br> Videogames lover<33 </h4>
 <img src="https://i.pinimg.com/564x/0f/04/ac/0f04ac135a8d6db96514bd97261c1c97.jpg" 
      align="left"
      alt="Cute quá dợ.";
@@ -35,3 +29,7 @@
      width="180"
      height="180"
      title="Cute quá dợ.">
+    <br>
+    <br>
+    <br>
+Social networks
