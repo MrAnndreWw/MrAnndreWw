@@ -1,5 +1,5 @@
-<h1> Hellooo! </h1>
-<h2> 
+<h1 align="center">  Hellooo!</h1>
+<h2 align="center"> 
     Andres Felipe Borbon...
     <img src="https://i.pinimg.com/736x/66/9e/46/669e4605028d005007eaeff6fae82b53.jpg" 
      align="left"
@@ -7,10 +7,16 @@
      width="140"
      height="140"
      title="Cute quá dợ.">
+    <img src="https://i.pinimg.com/736x/66/9e/46/669e4605028d005007eaeff6fae82b53.jpg" 
+     align="right"
+     alt="Cute quá dợ.";
+     width="140"
+     height="140"
+     title="Cute quá dợ.">
     <br>
     Systems engineer student 
 </h2>
-<h3> EAN University <br> Videogames lover<33 </h3>
+<h3 align="center"> EAN University <br> Videogames lover<33 </h3>
     <br>
     <br>
 <div>
