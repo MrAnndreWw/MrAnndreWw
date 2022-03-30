@@ -17,7 +17,6 @@
     Systems engineer student 
 </h2>
 <h3 align="center"> <a href="https://universidadean.edu.co/?CEDetalleFuente=DFV_LANDINGDIGITAL&CEDetalleMedio=DMV_GOOGLESEARCH&utm_source=google&utm_medium=cpc&utm_campaing_id=1718793809&utm_ad_id=471458873251&utm_adset_id=68497613758&utm_kw_id=universidad%20ean&gclid=EAIaIQobChMI7YOR_6Du9gIVSrLICh22TQ2YEAAYASAAEgKDVvD_BwE"> EAN University </h3>
-    <br> 
 <h3 align="center"> Videogames lover<33 </h3>
     <br>
     <br>
