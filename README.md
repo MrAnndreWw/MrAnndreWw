@@ -46,4 +46,8 @@
     &nbsp;
     &nbsp;
     &nbsp;
-    <a href="wa.me/573164678501"><img src="https://i.pinimg.com/564x/8f/82/08/8f82081674b7c19714a463168c47bf4e.jpg"40" height="40"></a>
+    <a href="wa.me/573164678501"><img src="https://i.pinimg.com/564x/8f/82/08/8f82081674b7c19714a463168c47bf4e.jpg" width="40" height="40"></a>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    <a href="https://twitter.com/andreww_f?t=lAu_Q-TdBixZne9qJBp5cg&s=09"><img src="https://i.pinimg.com/564x/be/1a/5d/be1a5dfda55408eba7dbfeef0dfefdbe.jpg"width="40" height="40"></a>
