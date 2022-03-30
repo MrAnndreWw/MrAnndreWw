@@ -1,22 +1,18 @@
 <h1> Hellooo! </h1>
 <h2> 
     Andres Felipe Borbon...
-    <img src="https://i.pinimg.com/564x/4e/e5/0b/4ee50b53bac0c87653f216b3d0f44cf9.jpg" 
+    <img src="https://i.pinimg.com/736x/66/9e/46/669e4605028d005007eaeff6fae82b53.jpg" 
      align="left"
      alt="Cute quá dợ.";
-     width="60"
-     height="60"
-     title="Cute quá dợ.">
-    <img src="https://i.pinimg.com/564x/4e/e5/0b/4ee50b53bac0c87653f216b3d0f44cf9.jpg" 
-     align="right"
-     alt="Cute quá dợ.";
-     width="60"
-     height="60"
+     width="140"
+     height="140"
      title="Cute quá dợ.">
     <br>
     Systems engineer student 
 </h2>
 <h3> EAN University <br> Videogames lover<33 </h3>
+    <br>
+    <br>
 <div>
 <img src="https://i.pinimg.com/564x/0f/04/ac/0f04ac135a8d6db96514bd97261c1c97.jpg" 
      alt="Cute quá dợ.";
@@ -46,3 +42,8 @@
      title="Cute quá dợ.">
 </div>
 <h3> Social Media: </h3>
+    <a href="https://www.instagram.com/andreww.f/"><img src="https://i.pinimg.com/736x/aa/ac/d5/aaacd554e216347866793cf32ebfa807.jpg"width="40" height="40"></a>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    <a href="wa.me/573164678501"><img src="https://i.pinimg.com/564x/8f/82/08/8f82081674b7c19714a463168c47bf4e.jpg"40" height="40"></a>
