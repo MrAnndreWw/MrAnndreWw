@@ -26,9 +26,9 @@
      width="150"
      height="150"
      title="Cute quá dợ.">
-<img src="https://i.pinimg.com/564x/6f/e3/79/6fe37986b15eff0de837a17fecfa10ec.jpg"
+<img src="https://i.pinimg.com/564x/d4/9f/5d/d49f5d5566afb032a4730e7cf5ecb238.jpg"
      align="left"
      alt="Cute quá dợ.";
-     width="300"
+     width="150"
      height="150"
      title="Cute quá dợ.">
