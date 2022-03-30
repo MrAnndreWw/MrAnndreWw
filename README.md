@@ -4,8 +4,8 @@
     <img src="https://i.pinimg.com/736x/66/9e/46/669e4605028d005007eaeff6fae82b53.jpg" 
      align="left"
      alt="Cute quá dợ.";
-     width="160"
-     height="160"
+     width="140"
+     height="140"
      title="Cute quá dợ.">
     <br>
     Systems engineer student 
